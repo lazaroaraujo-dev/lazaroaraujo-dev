@@ -51,7 +51,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 </p>
 
 🔗 **Repositório:**  
-[Arena Esportiva API](https://github.com/lazaroaraujo-dev/Arena_)
+[Arena Esportiva API](https://github.com/lazaroaraujo-dev/ArenaDeEsportes)
 
 ---
 
