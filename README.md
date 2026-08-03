@@ -39,7 +39,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 - 👤 Cadastro de usuários
 - 🏐 Cadastro de quadras
-- 📅 Agendamento de partidas
+- 📅 Agendamento de horários
 - 🔐 Autenticação com JWT
 - 📊 Controle de disponibilidade
 - 🗄️ Persistência com PostgreSQL
