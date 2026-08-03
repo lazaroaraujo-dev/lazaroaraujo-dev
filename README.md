@@ -100,12 +100,4 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazaroaraujo-dev&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&layout=compact&theme=github_dark)
-
----
-
 > *"A melhor forma de aprender é construindo projetos."* 🚀
