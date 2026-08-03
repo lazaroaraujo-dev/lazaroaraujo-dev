@@ -2,39 +2,19 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (4º período)
 
-💻 Desenvolvedor Backend em formação, com foco em **Java** e **Spring Boot**.
+💻 Desenvolvedor Backend em formação, apaixonado por construir APIs escaláveis com **Java** e **Spring Boot**.
 
-Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em APIs REST, bancos de dados relacionais e arquitetura de software, sempre buscando escrever código limpo e bem estruturado.
+Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em desenvolvimento backend, bancos de dados relacionais e arquitetura de software.
 
-Meu objetivo é iniciar minha carreira como **Desenvolvedor Backend Java** e, futuramente, me especializar em **Arquitetura de Software**, **Cloud Computing** e **DevOps**.
-
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de ADS (4º período)
-- ☕ Focado em desenvolvimento Backend com Java
-- 📚 Sempre aprendendo novas tecnologias
-- ☁️ Interessado em Arquitetura de Software, Cloud Computing e DevOps
-- 🚀 Construindo projetos para fortalecer meu portfólio
+🎯 Meu objetivo é atuar como **Desenvolvedor Backend Java** e, futuramente, me especializar em **Arquitetura de Software**, **Cloud Computing** e **DevOps**.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
-### Backend
-- ☕ Java
-- 🍃 Spring Boot
-- 🔗 APIs REST
-
-### Banco de Dados
-- 🐘 PostgreSQL
-
-### Ferramentas
-- 🌱 Git
-- 🐙 GitHub
-- 📦 Maven
-- 💡 IntelliJ IDEA
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,idea,linux" />
+</p>
 
 ---
 
@@ -43,37 +23,35 @@ Meu objetivo é iniciar minha carreira como **Desenvolvedor Backend Java** e, fu
 - Spring Security
 - JWT Authentication
 - JPA / Hibernate
-- Boas práticas de desenvolvimento
 - Arquitetura de Software
-- Cloud Computing (AWS)
+- AWS Cloud
+- Boas práticas de desenvolvimento
 
 ---
 
-## 📌 Projeto em destaque
+## 🚀 Projeto em destaque
 
 ### 🏟️ Arena Esportiva API
 
-API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena esportiva.
+API REST desenvolvida com **Java + Spring Boot** para gerenciamento de uma arena esportiva.
 
-### Funcionalidades
+### Principais funcionalidades
 
 - 👤 Cadastro de usuários
 - 🏐 Cadastro de quadras
 - 📅 Agendamento de partidas
-- ✅ Controle de disponibilidade
-- 🔐 Autenticação de usuários
-- 🗄️ Persistência com PostgreSQL
+- 🔐 Autenticação com JWT
+- 📊 Controle de disponibilidade
+- 🗄️ Persistência em PostgreSQL
 
-### Tecnologias utilizadas
+### Stack utilizada
 
-- Java
-- Spring Boot
-- PostgreSQL
-- Maven
-- JPA/Hibernate
-- Git
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git" />
+</p>
 
-🔗 **Repositório:** [Arena Esportiva API](https://github.com/lazaroaraujo-dev/Arena_)
+🔗 **Repositório:**  
+**https://github.com/lazaroaraujo-dev/Arena_**
 
 ---
 
@@ -82,7 +60,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 - 💼 Conquistar minha primeira oportunidade como Desenvolvedor Backend Java
 - ☁️ Especializar-me em Cloud Computing
 - 🏛️ Aprimorar meus conhecimentos em Arquitetura de Software
-- ⚙️ Aprender DevOps e Microsserviços
+- ⚙️ Aprender Microsserviços e DevOps
 - 🤝 Contribuir para projetos Open Source
 
 ---
@@ -90,13 +68,15 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 ## 🌎 Idiomas
 
 - 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Básico
+- 🇺🇸 Inglês — Básico (estudando diariamente)
 
 ---
 
 ## 📫 Contato
 
-💼 LinkedIn: [Lázaro Araújo](https://www.linkedin.com/in/lazaro-juan-de-lima-araujo-2486673ba)
+💼 LinkedIn
+
+https://www.linkedin.com/in/lazaro-juan-de-lima-araujo-2486673ba
 
 ---
 
