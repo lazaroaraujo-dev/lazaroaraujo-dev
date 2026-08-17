@@ -71,6 +71,16 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 ---
 
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazaroaraujo-dev/lazaroaraujo-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazaroaraujo-dev/lazaroaraujo-dev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/lazaroaraujo-dev/lazaroaraujo-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🎯 Objetivos
 
 - 💼 Conquistar minha primeira oportunidade como Desenvolvedor Backend Java
