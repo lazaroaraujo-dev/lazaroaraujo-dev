@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Lázaro Araújo
 
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=lazaroaraujo-dev&color=blue&style=flat-square&label=VISUALIZAÇÕES)
+
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (4º período)
 
 💻 Desenvolvedor Backend em formação, com foco em **Java** e **Spring Boot**.
