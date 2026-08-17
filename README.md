@@ -4,7 +4,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (4º período)
 
-💻 Desenvolvedor Backend em formação, com foco em **Java** e **Spring Boot**.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Desenvolvedor+Backend+em+Formação;Foco+em+Java+e+Spring+Boot;Estudante+de+Sistemas" alt="Typing SVG" /></a>
 
 Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em desenvolvimento de APIs REST, bancos de dados relacionais e arquitetura de software, sempre buscando escrever código limpo, organizado e boas práticas de desenvolvimento.
 
@@ -24,6 +24,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&layout=compact&v=1)](https://github.com/lazaroaraujo-dev)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazaroaraujo-dev&show_icons=true&theme=transparent&hide_border=true)](https://github.com/lazaroaraujo-dev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazaroaraujo-dev&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
