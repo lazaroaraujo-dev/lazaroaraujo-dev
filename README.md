@@ -83,8 +83,8 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 ## 📫 Contato
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/lazaro-juan-de-lima-araujo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-juan-de-lima-araujo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazarojuan08.dev@gmail.com)
 
 ---
 
