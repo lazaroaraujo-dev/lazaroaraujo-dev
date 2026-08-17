@@ -33,7 +33,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazaroaraujo-dev&theme=tokyonight&locale=pt_BR" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=lazaroaraujo-dev&theme=tokyonight&locale=pt_BR" height="165" />
   </a>
 </p>
 
