@@ -20,7 +20,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 
 ## 📊 Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&layout=compact&v=1)](https://github.com/lazaroaraujo-dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&layout=compact&v=20260817)
 
 
 ---
