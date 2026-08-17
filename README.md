@@ -24,10 +24,10 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 
 <p align="center">
   <a href="https://github.com/lazaroaraujo-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=lazaroaraujo-dev&show_icons=true&theme=dark" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lazaroaraujo-dev&show_icons=true&theme=dark&v=2" height="165" />
   </a>
   <a href="https://github.com/lazaroaraujo-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&theme=dark" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&theme=dark&v=2" height="165" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 ## 🏆 Minhas Conquistas
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lazaroaraujo-dev&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lazaroaraujo-dev&theme=flat&no-frame=true&margin-w=15&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
