@@ -36,6 +36,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
     <img src="https://streak-stats.demolab.com/?user=lazaroaraujo-dev&theme=tokyonight&locale=pt_BR&cache=false" height="165" />
   </a>
 </p>
+
 ---
 
 ## 📚 Atualmente estudando
