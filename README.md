@@ -22,8 +22,6 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <p align="center">
   <a href="https://github.com/lazaroaraujo-dev">
     <img src="https://api-status-github.vercel.app/api?username=lazaroaraujo-dev&show_icons=true&theme=dark&v=2" height="165" />
@@ -38,6 +36,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazaroaraujo-dev&theme=dark" height="165" />
   </a>
 </p>
+
 ---
 
 ## 📚 Atualmente estudando
