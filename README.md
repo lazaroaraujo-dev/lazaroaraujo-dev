@@ -22,9 +22,20 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 
 ## 📊 Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&layout=compact&v=1)](https://github.com/lazaroaraujo-dev)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazaroaraujo-dev&show_icons=true&theme=transparent&hide_border=true)](https://github.com/lazaroaraujo-dev)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazaroaraujo-dev&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/lazaroaraujo-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=lazaroaraujo-dev&show_icons=true&theme=dark" height="165" />
+  </a>
+  <a href="https://github.com/lazaroaraujo-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroaraujo-dev&theme=dark" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazaroaraujo-dev&theme=dark" height="165" />
+  </a>
+</p>
 
 ---
 
