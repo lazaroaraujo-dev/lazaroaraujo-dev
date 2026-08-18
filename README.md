@@ -76,12 +76,6 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 
 ---
 
-## 🏆 Minhas Conquistas
-
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lazaroaraujo-dev&theme=flat&no-frame=true&margin-w=15&v=2)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🐍 Contribuições
 
 <picture>
