@@ -62,7 +62,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 ### Tecnologias utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,vscode" />
 </p>
 
 🔗 **Repositório:**  
