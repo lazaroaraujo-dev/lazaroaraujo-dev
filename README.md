@@ -15,7 +15,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,idea,vscode" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ API REST desenvolvida em **Java + Spring Boot** para gerenciamento de uma arena 
 ### Tecnologias utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github" />
 </p>
 
 🔗 **Repositório:**  
