@@ -15,7 +15,7 @@ Atualmente desenvolvo projetos práticos para aprimorar minhas habilidades em de
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,idea,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,idea,python,vscode,docker" />
 </p>
 
 ---
